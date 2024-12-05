@@ -21,7 +21,7 @@
   recommendationControl: Governance
   recommendationImpact: Medium
   recommendationResourceType: Microsoft.Subscription/Subscriptions
-  recommendationMetadataState: Active
+  recommendationMetadataState: Disabled
   longDescription: |
     The root management group in Azure is designed for organizational hierarchy, allowing for all management groups and subscriptions to fold into it.
   potentialBenefits: Enhanced security, compliance, and management
@@ -37,7 +37,7 @@
 - description: Configure Service Health Alerts
   aprlGuid: 9729c89d-8118-41b4-a39b-e12468fa872b
   recommendationTypeId: null
-  recommendationControl: Monitoring and Alerting
+  recommendationControl: MonitoringAndAlerting
   recommendationImpact: High
   recommendationResourceType: Microsoft.Subscription/Subscriptions
   recommendationMetadataState: Active
